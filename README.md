@@ -112,7 +112,7 @@ CREATE TABLE Drivers (
 
 ## **📌 Autor**
 
-![Image](https://github.com/user-attachments/assets/5a905209-d1a5-4d3a-b633-02ef13b6419e)
+![Image](https://github.com/user-attachments/assets/19cd2137-dcd7-41e5-9bd3-51d047449849)
 
 
 
